@@ -8,7 +8,6 @@ import {
   HStack,
   Tag,
   useColorModeValue,
-  Container,
 } from "@chakra-ui/react";
 
 const BlogTags = (props) => {
